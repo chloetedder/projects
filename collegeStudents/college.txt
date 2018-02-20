@@ -1,0 +1,38 @@
+List of Students:
+Student Name:
+MOLLY KATE
+GPA:
+1.4738
+
+Course:
+calc
+Units:
+3
+Grade:
+C
+
+Course:
+history
+Units:
+3
+Grade:
+B
+
+Student Name:
+MAGGIE RICE
+GPA:
+3.4
+
+Course:
+discrete math
+Units:
+4
+Grade:
+A
+
+Course:
+geology
+Units:
+3
+Grade:
+B
